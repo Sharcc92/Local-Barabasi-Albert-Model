@@ -1,0 +1,2 @@
+# Local Barabasi Albert Model
+ 
